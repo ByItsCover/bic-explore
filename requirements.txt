@@ -1,0 +1,11 @@
+# General
+jupyter
+huggingface-hub
+onnx
+onnxscript
+
+# NER
+gliner
+
+# Semantic Search
+open_clip_torch
