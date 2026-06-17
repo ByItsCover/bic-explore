@@ -9,3 +9,8 @@ gliner
 
 # Semantic Search
 open_clip_torch
+
+# Two-Tower
+--extra-index-url https://download.pytorch.org/whl/cu132
+torch
+torchvision
