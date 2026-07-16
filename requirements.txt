@@ -17,3 +17,6 @@ torchvision
 polars
 matplotlib
 adjustText
+
+# Data Pipeline
+lancedb
