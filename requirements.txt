@@ -20,3 +20,4 @@ adjustText
 
 # Data Pipeline
 lancedb
+#geneva
