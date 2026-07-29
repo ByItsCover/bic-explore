@@ -17,6 +17,7 @@ torchvision
 polars
 matplotlib
 adjustText
+scikit-learn
 
 # Data Pipeline
 lancedb
