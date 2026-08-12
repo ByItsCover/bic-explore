@@ -14,6 +14,7 @@ query LordOfTheRingsBooks {
         order_by: [{default_cover_edition: {score: desc}}]) {
         id
         title
+        users_count
 
         default_cover_edition {
             id
@@ -24,7 +25,6 @@ query LordOfTheRingsBooks {
             language {
               language
             }
-            users_count
             users_read_count
             score
         }
