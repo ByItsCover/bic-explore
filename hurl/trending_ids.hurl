@@ -3,7 +3,7 @@ Authorization: Bearer {{token}}
 ```graphql
 query TrendingCovers {
     books_trending(
-            duration: month
+            duration: week
             limit: 10
         ) {
         ids
